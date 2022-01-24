@@ -1,2 +1,2 @@
 # Kodluyoruz
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+Asp.Net Core ile Backend kodlama
