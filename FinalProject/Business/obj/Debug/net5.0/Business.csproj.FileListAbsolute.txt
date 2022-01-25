@@ -14,6 +14,5 @@ C:\Users\CASPER\Documents\GitHub\Kodluyoruz\FinalProject\Business\obj\Debug\net5
 C:\Users\CASPER\Documents\GitHub\Kodluyoruz\FinalProject\Business\obj\Debug\net5.0\Business.dll
 C:\Users\CASPER\Documents\GitHub\Kodluyoruz\FinalProject\Business\obj\Debug\net5.0\ref\Business.dll
 C:\Users\CASPER\Documents\GitHub\Kodluyoruz\FinalProject\Business\obj\Debug\net5.0\Business.pdb
-C:\Users\CASPER\Documents\GitHub\Kodluyoruz\FinalProject\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
 C:\Users\CASPER\Documents\GitHub\Kodluyoruz\FinalProject\Business\bin\Debug\net5.0\Core.dll
 C:\Users\CASPER\Documents\GitHub\Kodluyoruz\FinalProject\Business\bin\Debug\net5.0\Core.pdb

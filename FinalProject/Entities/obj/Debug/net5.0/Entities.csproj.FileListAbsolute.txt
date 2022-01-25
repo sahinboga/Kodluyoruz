@@ -12,3 +12,4 @@ C:\Users\CASPER\Documents\GitHub\Kodluyoruz\FinalProject\Entities\obj\Debug\net5
 C:\Users\CASPER\Documents\GitHub\Kodluyoruz\FinalProject\Entities\obj\Debug\net5.0\Entities.pdb
 C:\Users\CASPER\Documents\GitHub\Kodluyoruz\FinalProject\Entities\bin\Debug\net5.0\Core.dll
 C:\Users\CASPER\Documents\GitHub\Kodluyoruz\FinalProject\Entities\bin\Debug\net5.0\Core.pdb
+C:\Users\CASPER\Documents\GitHub\Kodluyoruz\FinalProject\Entities\obj\Debug\net5.0\Entities.csproj.CopyComplete
